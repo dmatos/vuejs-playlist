@@ -1,3 +1,5 @@
+Continue from https://www.youtube.com/watch?v=LsoLfELhG74
+
 # vuejs-playlist
 
 > A Vue.js project

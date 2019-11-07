@@ -6,6 +6,8 @@ import App from './App.vue'
 //set Ninjas as global component
 //Vue.component('ninjas',Ninjas);
 
+export const bus = new Vue();
+
 new Vue({
   el: '#app',
   render: h => h(App)
